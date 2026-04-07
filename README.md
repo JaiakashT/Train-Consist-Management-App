@@ -74,3 +74,47 @@ This project aims to bridge the gap between **theoretical data structures** and 
 ---
 
 ## 🏗️ Project Structure
+## ▶️ How to Run
+
+### 🔹 Compile
+```bash
+javac src/TrainConsistApp.java
+
+java -cp src TrainConsistApp
+
+💡 Sample Output
+=== Train Consist Management App ===
+Passenger Bogies: [Sleeper, First Class]
+Unique IDs: [BG101, BG202]
+Train Order: [Sleeper, Pantry, AC, Cargo]
+Total Seats: 152
+Train ID Valid: true
+...
+
+🚀 Key Highlights
+✔ Real-world railway system simulation
+✔ Covers 20 progressive use cases
+✔ Clean and modular design
+✔ Demonstrates industry-level Git workflow
+✔ Strong focus on why & when to use data structures
+
+🔄 Git Workflow Used
+main → Final stable version
+
+develop → Integration branch
+
+feature/UCx → Each use case implemented separately
+
+📚 Learning Outcome
+By completing this project, you will:
+
+Understand practical usage of data structures
+
+Learn efficient problem-solving techniques
+
+Gain experience in real-world system design
+
+Be able to explain concepts clearly in interviews & viva
+
+👨‍💻 Author
+Jai Akash T
